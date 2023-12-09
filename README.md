@@ -1,4 +1,4 @@
-# Tardigrades: from genestealers to space marines
+# Tardigrades genome study: in search of new DNA repair genes
 
 This is the repo for the 4th project of the BI Bioinformatic Practice 2023 course
 
